@@ -13,6 +13,8 @@ The app has the following key features:
 
 ## Supporting Documents
 
+All documentation is hosted on [Github Pages](https://waimea-gkidd.github.io/lvl3-flask-project/)
+
 Task Instructions:
 - [Instruction documents](docs/instructions/)
 
