@@ -26,7 +26,7 @@ I propose a web-based application that will use SQL, html, and other languages, 
 
 ## Privacy
 
-Privacy refers to protection of personal information, ensuring that user data is only accessible to the people who are supposed to view it, and that it is sorted and handled through responsible means. 
+Privacy refers to protection of personal information, ensuring that user data is only accessible to the people who are supposed to view it, and that it is stored and handled through responsible means. 
 
 ### Relevance to the System
 
@@ -93,7 +93,7 @@ I'll need to design seperate views and interfaces for admin and regular users. I
 
 ## Visibility of Status
 
-In short this means keeping in contact with my stakeholder/user(s) so they actually have a clear idea of what is happening. 
+In short this means the system should always keep users informed about what is happening. Feedback, status, or even indicators of teh current state.
 
 ### Relevance to the System
 
